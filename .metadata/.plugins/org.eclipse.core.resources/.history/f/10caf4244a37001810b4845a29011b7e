@@ -1,0 +1,18 @@
+/*
+ * Copyright 2013 - 2017 by PostFinance Ltd - All rights reserved
+ */
+/**
+ * TODO
+ *
+ * @author TODO
+ */
+public class Senor {
+  public void addObserver() {
+  }
+
+  public void removeOvserver() {
+  }
+
+  public void notifyObserver() {
+  }
+}

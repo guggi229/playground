@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="pattern.strategy.Motor"/>
+<fullyQualifiedTypeName name="pattern.strategy.Bremsen"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="pattern.strategy.BerechnungAdd"/>
+<fullyQualifiedTypeName name="pattern.strategy.Context"/>
+<fullyQualifiedTypeName name="pattern.strategy.BerechnungSub"/>
+<fullyQualifiedTypeName name="FactoryMethodePattern.Essen"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="FactoryMethodePattern.Abendessen"/>
+<fullyQualifiedTypeName name="FactoryMethodePattern.MittagEssen"/>
+<fullyQualifiedTypeName name="FactoryMethodePattern.Kantine"/>
+</qualifiedTypeNameHistroy>

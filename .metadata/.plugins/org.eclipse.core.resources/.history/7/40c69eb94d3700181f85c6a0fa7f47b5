@@ -1,0 +1,14 @@
+/*
+ * Copyright 2013 - 2017 by PostFinance Ltd - All rights reserved
+ */
+/**
+ * TODO
+ *
+ * @author TODO
+ */
+public class Anzeige1 implements Observer {
+  @Override
+  public void update() {
+    System.out.println("Anzeige 1");
+  }
+}

@@ -1,0 +1,23 @@
+/*
+ * Copyright 2013 - 2017 by PostFinance Ltd - All rights reserved
+ */
+/**
+ * TODO
+ *
+ * @author TODO
+ */
+public class Sensor {
+  private int temepratur;
+
+  public void addObserver() {
+  }
+
+  public void removeOvserver() {
+  }
+
+  public void notifyObserver() {
+  }
+
+  public void setTemepratur(int temp) {
+  }
+}
