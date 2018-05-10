@@ -53,3 +53,5 @@ resources/i18n/all_en_CH.properties
 resources/i18n/all_fr_CH.properties
 resources/i18n/all_it_CH.properties
 
+.recommenders/
+.metadata/
