@@ -23,7 +23,6 @@ public class Kantine {
     if (stunde > 11) {
       return new MittagEssen();
     }
-
-    return null;
+    return new Geschlossen();
   }
 }
