@@ -18,11 +18,13 @@ public class client {
 		
 		System.out.println("Kontostand: " + pk.getBetrag());
 		
+		System.out.println("Muss nun einen Access Fehler geben: (falsches  Passwort)");
 		
 		ProxyKonto pk1 = new ProxyKonto("Müller", "1234");
 		
 		System.out.println("Kontostand: " + pk1.getBetrag());
 		
+		// Muss Fehler werfen!
 
 		
 	}
