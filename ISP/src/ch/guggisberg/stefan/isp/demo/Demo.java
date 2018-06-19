@@ -3,6 +3,8 @@
  */
 package ch.guggisberg.stefan.isp.demo;
 
+import ch.guggisberg.stefan.isp.AnotherClient;
+import ch.guggisberg.stefan.isp.DoorClient;
 import ch.guggisberg.stefan.isp.SimpleDoor;
 import ch.guggisberg.stefan.isp.TimedDoor;
 
@@ -22,5 +24,13 @@ public class Demo {
     td.lock();
     td.unlock();
     td.timeout();
+
+    DoorClient dc = new DoorClient();
+    dc.lock();
+    dc.unlock();
+
+    AnotherClient ac = new AnotherClient();
+    ac.unlock();
+    ac.timeout();
   }
 }
