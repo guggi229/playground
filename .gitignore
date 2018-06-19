@@ -15,8 +15,11 @@ local.properties
 .settings/
 .loadpath
 .classpath
+
 *.class
 .metadata/
+
+
 
 # Eclipse Core
 .project
